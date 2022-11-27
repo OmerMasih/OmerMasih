@@ -1,4 +1,4 @@
-<img class="code-img" src="https://www.pngitem.com/pimgs/m/38-380681_software-png-picture-hardware-and-software-png-transparent.png" alt="Hardware/Software">
+<img class="code-img" src="[https://www.pngitem.com/pimgs/m/38-380681_software-png-picture-hardware-and-software-png-transparent.png](https://www.instagram.com/p/BLeQiddDzbU/)" alt="Hardware/Software">
 
 <h1 align="center">Hi 👋, I'm Masih Omer</h1>
 <h3 align="center">A passionate frontend learner from California</h3>
