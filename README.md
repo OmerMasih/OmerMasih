@@ -1,4 +1,4 @@
-<img class="code-img" src="[https://www.pngitem.com/pimgs/m/38-380681_software-png-picture-hardware-and-software-png-transparent.png](https://www.instagram.com/p/BLeQiddDzbU/)" alt="Hardware/Software">
+ <img  class="chill-img" src="https://media1.giphy.com/media/fxAs5cuRoUnXDf12cK/200w.webp?cid=ecf05e476xkj1jmp5es21wydbjobb7usgskmfjf55ayxlh1y&rid=200w.webp&ct=g" alt="Afghan Chef">
 
 <h1 align="center">Hi 👋, I'm Masih Omer</h1>
 <h3 align="center">A passionate frontend learner from California</h3>
