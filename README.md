@@ -1,4 +1,5 @@
-<img src="[Masihullah Omer-modified.png](https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif)" alt="[My profile image](https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif)">
+<img class="code-img" src="https://www.pngitem.com/pimgs/m/38-380681_software-png-picture-hardware-and-software-png-transparent.png" alt="Hardware/Software">
+
 <h1 align="center">Hi 👋, I'm Masih Omer</h1>
 <h3 align="center">A passionate frontend learner from California</h3>
 
