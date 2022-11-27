@@ -1,4 +1,4 @@
-  <img src="" alt="https://media0.giphy.com/media/AiPHa8Drgklos/giphy.gif?cid=ecf05e47qpym4h436uy1xwbfx9rq6bt79jwb8ha0zxkh0wpt&rid=giphy.gif&ct=g">
+ <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="animated coding">
 <h1 align="center">Hi 👋, I'm Masih Omer</h1>
 <h3 align="center">A passionate frontend learner from California</h3>
 
