@@ -1,5 +1,4 @@
-  <img src="https://media0.giphy.com/media/AiPHa8Drgklos/giphy.gif?cid=ecf05e47qpym4h436uy1xwbfx9rq6bt79jwb8ha0zxkh0wpt&rid=giphy.gif&ct=g" alt="">
-
+  <img src="" alt="https://media0.giphy.com/media/AiPHa8Drgklos/giphy.gif?cid=ecf05e47qpym4h436uy1xwbfx9rq6bt79jwb8ha0zxkh0wpt&rid=giphy.gif&ct=g">
 <h1 align="center">Hi 👋, I'm Masih Omer</h1>
 <h3 align="center">A passionate frontend learner from California</h3>
 
