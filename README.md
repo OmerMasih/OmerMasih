@@ -1,4 +1,4 @@
-<img height="200px" src="Masihullah Omer-modified.png" alt="My profile image">
+<img src="[Masihullah Omer-modified.png](https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif)" alt="My profile image">
 <h1 align="center">Hi 👋, I'm Masih Omer</h1>
 <h3 align="center">A passionate frontend learner from California</h3>
 
