@@ -1,4 +1,4 @@
- <img  class="chill-img" src="https://media1.giphy.com/media/fxAs5cuRoUnXDf12cK/200w.webp?cid=ecf05e476xkj1jmp5es21wydbjobb7usgskmfjf55ayxlh1y&rid=200w.webp&ct=g" alt="Afghan Chef">
+ <img  class="chill-img" src="[https://media1.giphy.com/media/fxAs5cuRoUnXDf12cK/200w.webp?cid=ecf05e476xkj1jmp5es21wydbjobb7usgskmfjf55ayxlh1y&rid=200w.webp&ct=g](https://media0.giphy.com/media/AiPHa8Drgklos/giphy.gif?cid=ecf05e47qpym4h436uy1xwbfx9rq6bt79jwb8ha0zxkh0wpt&rid=giphy.gif&ct=g)" alt="Afghan Chef">
 
 <h1 align="center">Hi 👋, I'm Masih Omer</h1>
 <h3 align="center">A passionate frontend learner from California</h3>
