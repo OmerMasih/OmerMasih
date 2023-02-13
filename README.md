@@ -1,6 +1,3 @@
-![good-times](https://user-images.githubusercontent.com/111917255/218373361-203d8f00-6f1e-43ef-a834-78e60354f8a9.svg)
-
-
 
  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="animated coding">
 <h1 align="center">Hi 👋, I'm Masih Omer</h1>
