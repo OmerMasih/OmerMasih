@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/masih omer" target="blank"><img src="https://img.shields.io/twitter/follow/masih omer?logo=twitter&style=for-the-badge" alt="masih omer" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native** **Nodejs**
 
 - 💬 Ask me about **HTML,CSS,JavaScript**
 
