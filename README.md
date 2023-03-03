@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Masih Omer</h1>
-<h3 align="center">A passionate frontend learner from California</h3>
+<h3 align="center">A passionate frontend learner from California </h3>
 
  ![cb97265a-9e1c-4bc1-acaf-511bc338c1a6](https://user-images.githubusercontent.com/111917255/221773227-f43fa784-2e68-4917-8884-86032b51dc0c.jpeg)
 
